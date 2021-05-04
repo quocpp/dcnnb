@@ -1,0 +1,28 @@
+#table-scroll {
+    height:600px;
+    overflow:auto;  
+    margin-top:20px;
+  }
+  #table-scroll-watch {
+    height:300px;
+    overflow:auto;  
+    margin-top:20px;
+  }
+
+
+/* hide the blue outline */
+.form-control:focus {
+    outline: 0 !important;
+    border-color: initial;
+    box-shadow: none;
+}
+
+.row {
+
+  padding: 5px;
+
+}
+
+th {
+  cursor: pointer;
+}
